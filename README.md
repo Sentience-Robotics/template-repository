@@ -38,7 +38,7 @@ For more details on creation processes, troubleshooting, and other guidance, vis
 
 ---
 
-## Code of Conduct
+## 📜 Code of Conduct
 
 We value the participation of each member of our community and are committed to ensuring that every interaction is respectful and productive. To foster a positive environment, we ask you to read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
